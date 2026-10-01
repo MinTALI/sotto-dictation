@@ -11,6 +11,7 @@ This repo holds nothing but signed, notarized release DMGs — no source code.
 - **Website**: https://sotto.tortugas.site/
 - **Support**: https://sotto.tortugas.site/support.html
 - **Privacy Policy**: https://sotto.tortugas.site/privacy.html
+- **Support the project**: [Buy me a coffee](https://ko-fi.com/mintali) — never required, always appreciated.
 
 ## Installing
 
